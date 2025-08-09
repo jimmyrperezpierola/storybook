@@ -37,7 +37,7 @@
     "cross-spawn": "^6.0.5",
     "envinfo": "^7.3.1",
     "fs-extra": "^8.0.1",
-    "inquirer": "^6.2.0",
+    "inquirer": "^8.2.7",
     "jscodeshift": "^0.6.3",
     "json5": "^2.1.0",
     "pkg-add-deps": "^0.1.0",
